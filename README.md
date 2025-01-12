@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá 👋, meu nome é Thiago Duraes e sou estudante de Sistemas de Informação da Universidade Federal de Uberlândia.<br><br>🔭 Estou em busca de uma oportunidade de emprego, especialmente para estágio.<br>📚  Atualmente estudando Java/SpringBoot</p>
+<p align="left">Olá 👋, meu nome é Thiago Duraes e sou estudante de Sistemas de Informação da Universidade Federal de Uberlândia.<br><br>🔭 Estou em busca de uma oportunidade de emprego, especialmente para estágio.<br>📚  Atualmente estudando Java/SpringBoot.</p>
 
 ###
 
